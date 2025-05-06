@@ -1,8 +1,8 @@
 #include <IOXhop_FirebaseESP32.h>
 #include <WiFi.h>
 
-#define WIFI_SSID "yacout1"
-#define WIFI_PASSWORD "mnoomar5757"
+#define WIFI_SSID "wifi-name"
+#define WIFI_PASSWORD "wifi-password"
 #define FIREBASE_AUTH "ScVI8MzXuczQaFfNl03LP2p7rENzHFDSmFYzo2n3"
 #define FIREBASE_HOST "https://grad-bba94-default-rtdb.firebaseio.com/"
 #define RXp2 16
