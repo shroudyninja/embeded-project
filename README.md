@@ -1,12 +1,14 @@
 ESP32 code:
 
 
-![Screenshot 2025-05-06 164348](https://github.com/user-attachments/assets/7ca5041c-58f7-4b5c-b5ec-708f9132e586)
+![Picture3](https://github.com/user-attachments/assets/aa03f73f-0847-4cc3-8762-f72743938884)
+
 
 arduino code:
 
 
-![Screenshot 2025-05-06 164443](https://github.com/user-attachments/assets/cb5c69c1-1cd3-494a-af1d-e1aefb33d455)
+![Picture2](https://github.com/user-attachments/assets/4c06c402-d248-4600-a891-b05a7df05b48)
+
 
 connections:
 
