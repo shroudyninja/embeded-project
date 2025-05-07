@@ -1,13 +1,12 @@
 #include <IOXhop_FirebaseESP32.h>
 #include <WiFi.h>
 
-#define WIFI_SSID "wifi-name"
-#define WIFI_PASSWORD "wifi-password"
-#define FIREBASE_AUTH "ScVI8MzXuczQaFfNl03LP2p7rENzHFDSmFYzo2n3"
-#define FIREBASE_HOST "https://grad-bba94-default-rtdb.firebaseio.com/"
+#define WIFI_SSID "wifi-name"           //change to your wifi ssid
+#define WIFI_PASSWORD "wifi-password"   //change to your wifi password
+#define FIREBASE_AUTH "ScVI8MzXuczQaFfNl03LP2p7rENzHFDSmFYzo2n3"        // change to your database authentication
+#define FIREBASE_HOST "https://grad-bba94-default-rtdb.firebaseio.com/"      // change to your database address
 #define RXp2 16
 #define tXp2 17
-
 float moisturePercentage;
 float a;
 
